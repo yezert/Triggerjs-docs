@@ -1,0 +1,16 @@
+:root {
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: -webkit-linear-gradient(0deg, #ddb66f, #da4747);
+    --vp-c-brand: #e26c6c;
+    --vp-c-brand-dark: #e26c6c;
+    --vp-c-brand-light: #e26c6c;
+    --vp-c-brand-lighter: #e26c6c;
+    --vp-c-brand-dark: #e26c6c;
+    --vp-button-brand-border: #e26c6c;
+    --vp-button-brand-text: #7c2b2b;
+    --vp-button-brand-bg: #e26c6c;
+    --vp-button-brand-hover-border: #e26c6c;
+    --vp-button-brand-hover-text: #f0dada;
+    --vp-button-brand-hover-bg: #ff6868;
+    --vp-button-brand-active-border: #e26c6c;
+ }
