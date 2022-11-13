@@ -1,7 +1,7 @@
 export default {
 	markdown: {
 		theme: {
-			light: "github-light",
+			light: "github-dark",
 			dark: "github-dark",
 		},
 	},

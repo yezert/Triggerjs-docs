@@ -1,5 +1,4 @@
 
-<link rel="stylesheet" href="../../theme/index.css" />
 
 # `tg-filter` 的模式
 

@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="../theme/index.css" />
 
 # Javascript Event
 

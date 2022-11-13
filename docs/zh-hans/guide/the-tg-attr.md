@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="../../theme/index.css" />
 
 # `tg-` 属性列表
 

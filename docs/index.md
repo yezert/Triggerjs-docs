@@ -47,5 +47,3 @@ const members = [
 </script>
 
 <VPTeamMembers size="small" :members="members" />
-
-<link rel="stylesheet" href="./theme/index.css" />

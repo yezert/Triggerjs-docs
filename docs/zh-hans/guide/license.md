@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="../../theme/index.css" />
 
 # 授权协议
 
